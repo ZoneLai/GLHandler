@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GLHandler.iml" filepath="$PROJECT_DIR$/GLHandler.iml" />
+      <module fileurl="file://D:\mApp\GLPlayer\egl\aavt.iml" filepath="D:\mApp\GLPlayer\egl\aavt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\mApp\GLPlayer\app\examples.iml" filepath="D:\mApp\GLPlayer\app\examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libhandler/egl.iml" filepath="$PROJECT_DIR$/libhandler/egl.iml" />
+    </modules>
+  </component>
+</project>
